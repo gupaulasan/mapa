@@ -1,4 +1,4 @@
-# mapa
+# Mapa
 Código em Python com o module `Folium` para replicar um mapa físico que tenho em casa e suas marcações
 
 ## O mapa original
